@@ -2,7 +2,7 @@ from huggingface_hub import login
 from datasets import load_dataset
 
 login(
-  token="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", # ADD YOUR TOKEN HERE
+  token="", # ADD YOUR TOKEN HERE
   add_to_git_credential=True
 )
 
